@@ -26,7 +26,7 @@ npm i --save core-js regenerator-runtime
 Installation
 Get a free API Key at Forkify API_KEY
 Clone the repo
-git clone https://github.com/AsifAhmed96/forkify
+git clone https://github.com/AsifAhmed96/foodify
 Install NPM packages
 npm install
 Enter your API in config.js
